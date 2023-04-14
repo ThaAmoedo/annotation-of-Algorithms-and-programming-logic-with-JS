@@ -1,0 +1,11 @@
+Aqui estou vendo sobre String no alert
+.prompt
+.alert
+
+
+Oque eu utilizei/aprendi só nisso:
+[] executar funções
+[] variaveis
+[] concatenação
+[] tipo de dado: String
+[] Básica de sintaxe  
